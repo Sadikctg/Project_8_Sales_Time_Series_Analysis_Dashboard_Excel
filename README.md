@@ -16,7 +16,7 @@ The Time Series Analysis Sales Dashboard is meticulously crafted to provide a co
 
 5. Customizable Reporting: Provide customizable reporting features that allow users to tailor the dashboard to their specific needs, selecting relevant time periods, metrics, and visualization styles for personalized analysis.
 
-### Esential Steps to Make this Visualization:
+### Essential Steps to Make this Visualization:
 
 1. Dataset Collection: I collected the dataset from Kaggle, a renowned platform for datasets and data science competitions.
 
@@ -24,7 +24,7 @@ The Time Series Analysis Sales Dashboard is meticulously crafted to provide a co
 
 3. Pivot Tables and Pivot Charts: Pivot Tables and Pivot Charts serve as powerful tools for summarizing and visualizing sales data dynamically. These features allow users to analyze sales trends, patterns, and outliers across various dimensions such as product categories, customer segments, or time periods. Pivot Tables enable flexible data aggregation and manipulation, while Pivot Charts provide intuitive graphical representations of sales metrics, facilitating quick and insightful analysis.
 
-4. Data Visualization and Dashboard Creation: Effective data visualization plays a crucial role in conveying insights and driving informed decision-making. By leveraging Excel's data visualization capabilities, sales data can be transformed into visually compelling charts, graphs, and dashboards. These visual representations not only enhance data interpretation but also enable stakeholders to identify trends, outliers, and opportunities at a glance. Dashboard creation involves assembling these visualizations into a cohesive and interactive interface, allowing users to explore and interact with the data seamlessly
+4. Data Visualization and Dashboard Creation: Effective data visualization plays a crucial role in conveying insights and driving informed decision-making. By leveraging Excel's data visualization capabilities, sales data can be transformed into visually compelling charts, graphs, and dashboards. These visual representations not only enhance data interpretation but also enable stakeholders to identify trends, outliers, and opportunities at a glance. Dashboard creation involves assembling these visualizations into a cohesive and interactive interface, allowing users to explore and interact with the data seamlessly.
 
 ![Sales](https://github.com/Sadikctg/Project_8_Sales_Time_Series_Analysis_Dashboard_Excel/blob/main/images/Sales%20Analysis%2001-cropped.jpg)
 
